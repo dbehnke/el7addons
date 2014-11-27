@@ -1,3 +1,5 @@
+#!/bin/bash
+
 GOVERSION=1.3.3
 REV=3
 PKG_PREFIX=http://cbs.centos.org/kojifiles/packages/golang/${GOVERSION}/${REV}.el7.centos
